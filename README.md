@@ -1,4 +1,4 @@
-# sample_app1
+# vue-clock
 
 > A Vue.js project
 
